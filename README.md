@@ -2,7 +2,7 @@
 
 ## Meetup du 2019/10/10 @Leansquare
 
-Pour ce deuxième "[Liège WordPress Meetup][meetup]", nous avons eu le plaisir d'accueillir Hugues Lismonde de chez [EPIC agency][epic] pour une présentation de [Docker][docker] + WordPress. La soirée se terminera avec Kevin Kelly de chez [KIFF & Co][kiffnco] qui nous présentera un projet client réalisé sous WordPress
+Pour ce deuxième "[Liège WordPress Meetup][meetup]", nous avons eu le plaisir d'accueillir Hugues Lismonde de chez [EPIC agency][epic] pour une présentation de [Docker][docker] + WordPress. La soirée se termina avec Kevin Kelly de chez [KIFF & Co][kiffnco] qui nous a présenté une série de projets client réalisés sous WordPress
 - [Page Facebook][wplgeFacebook] du WordPress Liège
 - [Slides][wplgeDockerSlides] et [démo repos][wplgeDockerDemo] de la présentation WordPress + Docker
 - [Slides][wplgeCaseSlides] de la présentation des cases client:
