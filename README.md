@@ -3,6 +3,9 @@
 ## Meetup Liège 2019/10/10
 
 Pour ce deuxième "[Liège WordPress Meetup][meetup]", nous aurons le plaisir d'accueillir Hugues Lismonde de chez [EPIC agency][epic] pour une présentation de [Docker][docker] + WordPress. La soirée se terminera avec Kevin Kelly de chez [KIFF & Co][kiffnco] qui nous présentera un projet client réalisé sous WordPress
+- [Page Facebook][wplgeFacebook] du WordPress Liège
+- [Slides][wplgeDockerSlides] et [démo repos][wplgeDockerDemo] de la présentation WordPress + Docker
+- [Slides][wplgeCaseSlides] de la présentation des cases client:
 
 ### WP Belgium
 Plateforme de diffusions d'infos, échange de ressources, agenda des conférences, *WordCamp* et Meetup en Belgique et en lien avec la communauté WordPress internationale
@@ -28,3 +31,7 @@ Plateforme de diffusions d'infos, échange de ressources, agenda des conférence
 [yaw]: https://yaw.fr/
 [sapristi]: https://www.sapristi.design/
 [sogalux]: https://sogalux.be/
+[wplgeFacebook]: https://www.facebook.com/wpliege
+[wplgeDockerSlides]: https://github.com/epicagency/docker-wordpress-slides
+[wplgeDockerDemo]: https://github.com/epicagency/docker-wordpress-demo
+[wplgeCaseSlides]: https://www.icloud.com/keynote/03yijzmbEX_G1Jycsv6jRqwcw#presentation
