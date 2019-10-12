@@ -1,4 +1,4 @@
-# wordPress
+# Liège WordPress
 
 ## Meetup Liège 2019/10/10
 
